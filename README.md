@@ -9,14 +9,14 @@
 
 ---
 
-## 👩‍💻 Objective
+## Objective
 Passionate Web Developer with hands-on experience in building responsive and
 user-friendly websites using HTML, CSS, and JavaScript. Strong interest in
 frontend development and real-world projects.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 - **Frontend:** HTML5, CSS3, JavaScript 
 - **Backend:** Node.js (Basic)  
 - **Database:** MongoDB / MySQL (Basic)  
@@ -25,7 +25,7 @@ frontend development and real-world projects.
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### Image Gallery Website
 - Built a responsive image gallery with hover effects and modal view  
@@ -42,15 +42,15 @@ frontend development and real-world projects.
 
 ---
 
-## 🎓 Education
+## Education
 **B.Tech – Computer Science Engineering**  
 IIMT College of Engineering , Greater noida  
-📅 2023 – 2027  
+2023 – 2027  
 **CGPA:** 8.12  
 
 ---
 
-## 📜 Training / Internship
+## Training / Internship
 - Frontend Developer Internship – CodeAlpha
 
 ---
@@ -67,7 +67,7 @@ IIMT College of Engineering , Greater noida
 
 ---
 
-## 🌱 Soft Skills
+## Soft Skills
 - Problem Solving  
 - Team Collaboration  
 - Time Management  

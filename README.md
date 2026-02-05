@@ -1,5 +1,5 @@
 # Palak Kumari  
-### Computer Science Engineering Student | Web Developer   
+### Computer Science Engineering Student | Web Developer
 
 📍 India
 📧 palakkumari251@email.com  
@@ -9,7 +9,7 @@
 
 ---
 
-## 👩‍💻 Professional Summary
+## 👩‍💻 Objective
 Passionate Web Developer with hands-on experience in building responsive and
 user-friendly websites using HTML, CSS, and JavaScript. Strong interest in
 frontend development and real-world projects.
@@ -17,7 +17,7 @@ frontend development and real-world projects.
 ---
 
 ## 🛠 Technical Skills
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Frontend:** HTML5, CSS3, JavaScript 
 - **Backend:** Node.js (Basic)  
 - **Database:** MongoDB / MySQL (Basic)  
 - **Tools:** Git, GitHub, VS Code  
@@ -31,7 +31,7 @@ frontend development and real-world projects.
 - Built a responsive image gallery with hover effects and modal view  
 - Implemented dynamic filtering using JavaScript
    
-- **Tech:** HTML, CSS, JavaScript  
+- **Technologies:** HTML, CSS, JavaScript  
 - **GitHub:** https://github.com/PalakInnovates/CodeAlpha_ImageGallery  
 
 ### Calculator Web App
@@ -45,12 +45,25 @@ frontend development and real-world projects.
 ## 🎓 Education
 **B.Tech – Computer Science Engineering**  
 IIMT College of Engineering , Greater noida  
+📅 2023 – 2027  
 **CGPA:** 8.12  
 
 ---
 
 ## 📜 Training / Internship
-- Web Development Internship – CodeAlpha  
+- Frontend Developer Internship – CodeAlpha
+
+---
+
+## Certifications
+- IJRPR Research Publication Certificate  
+- Android Development Certification  
+- Industrial Internet of Things (IIoT) Certification
+
+---
+
+## Achievements
+- Certificate of Merit for Excellent Academic Performance
 
 ---
 
@@ -59,3 +72,8 @@ IIMT College of Engineering , Greater noida
 - Team Collaboration  
 - Time Management  
 - Continuous Learner
+  
+---
+
+## Declaration
+I hereby declare that the above information is true to the best of my knowledge.

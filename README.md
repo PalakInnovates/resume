@@ -2,7 +2,7 @@
 ### Computer Science Engineering Student | Web Developer
 
 📍 India
-📧 palakkumari251@email.com  
+📧 palakkumari251@gmail.com  
 📞 +91-8092306805  
 🔗 GitHub: https://github.com/PalakInnovates 
 🔗 LinkedIn: https://www.linkedin.com/in/palak-kumari-7085502a1/  
